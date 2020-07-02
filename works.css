@@ -49,6 +49,17 @@
 	justify-content: space-around;
 	flex-wrap: wrap;
 }
+
+#sub ul li img {
+	padding-bottom: 10px;
+/*	border-radius: 5px;*/
+}
+#sub ul {
+	max-width: 980px;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
 .btn{
 	margin: 0;
 	}
