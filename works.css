@@ -95,10 +95,17 @@
 	transform-origin: left top;
 	transform: scale(1, 1);
 }
+
+
  @media screen and (max-width: 480px) {
-#main h1 {
+
+#main {
+	margin: 30px 5%;
+	padding-top:30px;
+}
+#main h1, #main h2 {
 	font-size: 150%;
 	line-height: 1em;
 	padding-bottom: 20px;
 }
-}
+
