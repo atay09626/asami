@@ -79,7 +79,7 @@ ul.menu li a:hover::after {
 }
 
 /*タイトル設定*/
-h2 {
+h2,link {
   font-size: 30px;
   padding: 40px;
   /*  color:#67b6ff;*/
