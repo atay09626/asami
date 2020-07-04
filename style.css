@@ -115,7 +115,7 @@ h2 {
   width: 600px;
 /*  height: 480px;*/
   background: rgba(204,238,255,0.5);
-  font-size: 13px;
+/*   font-size: 13px; */
   padding: 10px;
 }
 
@@ -126,7 +126,7 @@ h2 {
 }
 
 .text{
-  padding: 5px;
+  padding: 10px;
 }
 /*
 span {
