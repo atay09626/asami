@@ -114,7 +114,7 @@ h2 {
 .profiletext {
   width: 600px;
 /*  height: 480px;*/
-  background-color: #e3f5ff;
+  background: rgba(204,238,255,0.5);
   font-size: 13px;
   padding: 10px;
 }
