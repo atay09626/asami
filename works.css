@@ -99,7 +99,7 @@
 
  @media screen and (max-width: 480px) {
 
-#main {
+/* #main {
 	margin: 30px 5%;
 	padding-top:30px;
 }
@@ -107,7 +107,7 @@
 	font-size: 150%;
 	line-height: 1em;
 	padding-bottom: 20px;
-}
+} */
 	 #main ul li {
 	 width:900px;
 	 }
