@@ -8,18 +8,18 @@
 }
 #main ul li {
 	width: 280px;
-	background: rgba(204,238,255,0.5);
 /*	border-radius: 5px;*/
 	padding: 5px;
 	margin: 0 auto 10px auto;
+	background: #fff;
 }
 
 #sub ul li {
 	width: 720px;
-	background: rgba(204,238,255,0.5);
 /*	border-radius: 5px;*/
 	padding: 10px;
 	margin: 0 auto 20px auto;
+	background: #fff;
 }
 /*
 .name {
@@ -41,7 +41,6 @@
 */
 #main ul li img {
 	padding: 5px;
-	background:#fff;
 /*	border-radius: 5px;*/
 }
 #main ul {
@@ -49,6 +48,7 @@
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
+	background: rgba(204,238,255,0.5);
 }
 
 #sub ul li img {
@@ -60,6 +60,7 @@
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
+	background: rgba(204,238,255,0.5);
 }
 .btn{
 	margin: 0;
