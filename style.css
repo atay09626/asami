@@ -79,10 +79,16 @@ ul.menu li a:hover::after {
 }
 
 /*タイトル設定*/
-h2,link {
+h2 {
   font-size: 30px;
   padding: 40px;
   /*  color:#67b6ff;*/
+}
+.link {
+  font-size: 30px;
+  padding: 40px;
+  display:inline-block;
+  text-align: center;
 }
 
 #header {
