@@ -44,6 +44,7 @@
 /*	border-radius: 5px;*/
 }
 #main ul {
+	padding-top:15px;
 	max-width: 980px;
 	display: flex;
 	justify-content: space-around;
@@ -56,6 +57,7 @@
 /*	border-radius: 5px;*/
 }
 #sub ul {
+	padding-top:15px;
 	max-width: 980px;
 	display: flex;
 	justify-content: space-around;
