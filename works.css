@@ -108,4 +108,12 @@
 	line-height: 1em;
 	padding-bottom: 20px;
 }
-
+	 #main ul li {
+	 width:900px;
+	 }
+	 #main ul li img {
+    /* margin: 0 auto; */
+    padding: 30px 150px;
+    /* border-radius: 5px; */
+}
+}
